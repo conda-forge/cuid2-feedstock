@@ -1,5 +1,5 @@
 context:
-  version: "3.0.0"
+  version: "3.1.0"
 
 package:
   name: cuid2
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/cuid2/cuid2-${{ version }}.tar.gz
-  sha256: e846f3f37162d569e77ddfbe8265cdc33f4c86056b6e9fb2cbf762ad87fc3010
+  sha256: ea5a8d2a6ad97f297cdd8fc6d9589abdfecc6c352b792311df870a9b63c5f72c
 
 build:
   number: 0
